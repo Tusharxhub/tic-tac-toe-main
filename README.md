@@ -1,4 +1,3 @@
----
 
 # Tic-Tac-Toe Game 🎮
 
@@ -41,12 +40,14 @@ The AI is powered by the minimax algorithm, providing a challenging experience w
 3. Commit your changes: `git commit -m 'Add AmazingFeature'`.
 4. Push to the branch: `git push origin feature/AmazingFeature`.
 5. Open a pull request.
-## 📞 Contact
 
-Feel free to reach out if you have any questions or suggestions:
+🌟 Star this repository to show support and keep me motivated! ❤️
 
-- **Email**: [t.k.d.dey2033929837@gmail.com](mailto:t.k.d.dey2033929837@gmail.com)
-- **Instagram**: [ff_tushar999](https://instagram.com/ff_tushar999)
+## 📬 Contact
+**Tushar** – [GitHub](https://github.com/Tusharxhub) |
+[Instagram](https://www.instagram.com/tushardevx01)
+
+🚀 _Made with ❤️ by Tushar DevX._
 
 ---
 
